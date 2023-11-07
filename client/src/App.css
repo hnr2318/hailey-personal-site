@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  max-width: 1536px;
+  padding-right: 8rem;
+  padding-left: 8rem;
+  margin-top: 5rem;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#contact-form {
+  padding: 4rem;
+  width: 30%;
+  margin-right: 15rem;
+  margin-left: 10rem;
+}
+
+#contact-box {
+  margin-top: 10rem;
+  justify-content: center;
+  margin-bottom: 10rem;
+}
+
+.contact-detail {
+  color: white;
+  margin-right: 3rem; 
+}
