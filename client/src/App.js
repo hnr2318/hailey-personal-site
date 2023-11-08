@@ -7,7 +7,6 @@ import ContactBox from './components/ContactBox';
 import ExperienceBox from './components/ExperienceBox';
 import SkillsBox from './components/SkillsBox';
 import { ToastContainer } from 'react-toastify'
-// import "./ReactToastify.css";
 import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
